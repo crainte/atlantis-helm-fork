@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  atlantis:
+  - apiVersion: v1
+    appVersion: v0.8.2
+    created: 2019-07-05T13:26:10.059200302-05:00
+    description: A Helm chart for Atlantis https://www.runatlantis.io
+    digest: c2d179b48efad07980995eb51e56b5d247894a0dfad87328984bdfc3a2fdae8a
+    home: https://www.runatlantis.io
+    icon: https://www.runatlantis.io/hero.png
+    keywords:
+    - terraform
+    name: atlantis
+    sources:
+    - https://github.com/runatlantis/atlantis
+    urls:
+    - atlantis-3.6.3.tgz
+    version: 3.6.3
+generated: 2019-07-05T13:26:10.056706353-05:00
